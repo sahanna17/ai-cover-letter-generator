@@ -42,7 +42,10 @@ http://localhost:8501
 ---
 
 ## 📸 Output
-(Add screenshot here)
+<img width="1600" height="713" alt="WhatsApp Image 2026-05-01 at 7 43 23 PM" src="https://github.com/user-attachments/assets/6b401786-b802-4a3c-82a4-c69f5d9d011a" />
+<img width="1600" height="787" alt="WhatsApp Image 2026-05-01 at 7 52 10 PM" src="https://github.com/user-attachments/assets/2cc29455-9bf8-4acf-991a-e345c07ea4ac" />
+
+
 
 ---
 
