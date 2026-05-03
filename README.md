@@ -45,7 +45,6 @@ http://localhost:8501
 <img width="1600" height="713" alt="WhatsApp Image 2026-05-01 at 7 43 23 PM" src="https://github.com/user-attachments/assets/6b401786-b802-4a3c-82a4-c69f5d9d011a" />
 <img width="1600" height="796" alt="image" src="https://github.com/user-attachments/assets/b48a06f2-d655-4235-a756-6e879883b215" />
 <img width="1600" height="791" alt="image (1)" src="https://github.com/user-attachments/assets/1bdfe394-2bde-46a5-bd7d-8e77c4d7b0e5" />
-<img width="1828" height="910" alt="image" src="https://github.com/user-attachments/assets/e54ae98e-19f1-4453-b5a9-c2b38b4e1288" />
 
 
 
